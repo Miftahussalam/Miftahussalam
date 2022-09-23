@@ -39,7 +39,7 @@
 <a href="https://stackoverflow.com/users/12843983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12843983" height="30" width="40" /></a>
 <a href="https://instagram.com/mif_salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mif_salam" height="30" width="40" /></a>
 <a href="https://medium.com/@miftahussalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@miftahussalam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucrjmbobdjxp7vkg0nntoysq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucrjmbobdjxp7vkg0nntoysq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCRJMBobDJXp7VkG0NnTOySQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Miftah Salam" height="30" width="40" /></a>
 <a href="https://blog.miftahussalam.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.miftahussalam.com/feed/" height="30" width="40" /></a>
 </p>
 
