@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Odoo](https://github.com/odoo/odoo)
 
-- 🌱 I’m currently learning **Odoo, python, postgresql, gatsby.js, react.js, etc**
+- 🌱 I’m currently learning **odoo, python, postgresql, gatsby.js, react.js, etc**
 
 - 👯 I’m looking to collaborate on [Odoo Apps](https://github.com/Miftahussalam/odoo-apps)
 
@@ -40,7 +40,7 @@
 <a href="https://instagram.com/mif_salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mif_salam" height="30" width="40" /></a>
 <a href="https://medium.com/@miftahussalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@miftahussalam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucrjmbobdjxp7vkg0nntoysq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucrjmbobdjxp7vkg0nntoysq" height="30" width="40" /></a>
-<a href="/https://blog.miftahussalam.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.miftahussalam.com/feed/" height="30" width="40" /></a>
+<a href="https://blog.miftahussalam.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.miftahussalam.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
