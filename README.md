@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miftahussalam&label=Profile%20views&color=0e75b6&style=flat" alt="miftahussalam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=miftahussalam" alt="miftahussalam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=miftahussalam" alt="miftahussalam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mif_salam" target="blank"><img src="https://img.shields.io/twitter/follow/mif_salam?logo=twitter&style=for-the-badge" alt="mif_salam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mif_salam" target="_blank"><img src="https://img.shields.io/twitter/follow/mif_salam?logo=twitter&style=for-the-badge" alt="mif_salam" /></a> </p>
 
 - 🔭 I’m currently working on [Odoo](https://github.com/odoo/odoo)
 
@@ -33,14 +33,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/miftahussalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="miftahussalam" height="30" width="40" /></a>
-<a href="https://twitter.com/mif_salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mif_salam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miftahusssalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miftahusssalam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12843983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12843983" height="30" width="40" /></a>
-<a href="https://instagram.com/mif_salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mif_salam" height="30" width="40" /></a>
-<a href="https://medium.com/@miftahussalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@miftahussalam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCRJMBobDJXp7VkG0NnTOySQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Miftah Salam" height="30" width="40" /></a>
-<a href="https://blog.miftahussalam.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.miftahussalam.com/feed/" height="30" width="40" /></a>
+<a href="https://dev.to/miftahussalam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="miftahussalam" height="30" width="40" /></a>
+<a href="https://twitter.com/mif_salam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mif_salam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miftahusssalam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miftahusssalam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12843983" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12843983" height="30" width="40" /></a>
+<a href="https://instagram.com/mif_salam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mif_salam" height="30" width="40" /></a>
+<a href="https://medium.com/@miftahussalam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@miftahussalam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCRJMBobDJXp7VkG0NnTOySQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Miftah Salam" height="30" width="40" /></a>
+<a href="https://blog.miftahussalam.com/feed/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.miftahussalam.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
